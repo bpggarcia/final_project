@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "Name": "Portugal",
+    "label": "You arrived and look to the thermometer in the Airport and it is 17°C"
+  },
+  {
+    "id": 2,
+    "Name": "Spain",
+    "label": "You arrived and look to the thermometer in the Airport and it is 30°C"
+  },
+  {
+    "id": 3,
+    "Name": "France",
+    "label": "You arrived and look to the thermometer in the Airport and it is 3°C"
+  },
+  {
+    "id": 4,
+    "Name": "Belgium",
+    "label": "You arrived and look to the thermometer in the Airport and it is 21°C"
+  },
+  {
+    "id": 5,
+    "Name": "Luxembourg",
+    "label": "You arrived and look to the thermometer in the Airport and it is 9°C"
+  },
+  {
+    "id": 6,
+    "Name": "Germany",
+    "label": "You arrived and look to the thermometer in the Airport and it is 15°C"
+  },
+  {
+    "id": 7,
+    "Name": "Ireland",
+    "label": "You arrived and look to the thermometer in the Airport and it is 20°C"
+  },
+  {
+    "id": 8,
+    "Name": "England",
+    "label": "You arrived and look to the thermometer in the Airport and it is -5°C"
+  },
+  {
+    "id": 9,
+    "Name": "Italy",
+    "label": "You arrived and look to the thermometer in the Airport and it is 19°C"
+  },
+  {
+    "id": 10,
+    "Name": "Austria",
+    "label": "You arrived and look to the thermometer in the Airport and it is 18°C"
+  },
+  {
+    "id": 11,
+    "Name": "Slovenia",
+    "label": "You arrived and look to the thermometer in the Airport and it is 12°C"
+  },
+  {
+    "id": 12,
+    "Name": "Croatia",
+    "label": "You arrived and look to the thermometer in the Airport and it is 25°C"
+  },
+  {
+    "id": 13,
+    "Name": "Hungary",
+    "label": "You arrived and look to the thermometer in the Airport and it is 10°C"
+  },
+  {
+    "id": 14,
+    "Name": "Slovakia",
+    "label": "You arrived and look to the thermometer in the Airport and it is -4°C"
+  },
+  {
+    "id": 15,
+    "Name": "Czechia",
+    "label": "You arrived and look to the thermometer in the Airport and it is 15°C"
+  },
+  {
+    "id": 16,
+    "Name": "Poland",
+    "label": "You arrived and look to the thermometer in the Airport and it is 4°C"
+  },
+  {
+    "id": 17,
+    "Name": "Romania",
+    "label": "You arrived and look to the thermometer in the Airport and it is 19°C"
+  },
+  {
+    "id": 18,
+    "Name": "Bulgaria",
+    "label": "You arrived and look to the thermometer in the Airport and it is -2°C"
+  },
+  {
+    "id": 19,
+    "Name": "Greece",
+    "label": "You arrived and look to the thermometer in the Airport and it is 1°C"
+  },
+  {
+    "id": 20,
+    "Name": "Lithuania",
+    "label": "You arrived and look to the thermometer in the Airport and it is 20°C"
+  },
+  {
+    "id": 21,
+    "Name": "Latvia",
+    "label": "You arrived and look to the thermometer in the Airport and it is -6°C"
+  },
+  {
+    "id": 22,
+    "Name": "Estonia",
+    "label": "You arrived and look to the thermometer in the Airport and it is 18°C"
+  },
+  {
+    "id": 23,
+    "Name": "Finland",
+    "label": "You arrived and look to the thermometer in the Airport and it is 1°C"
+  },
+  {
+    "id": 24,
+    "Name": "Sweden",
+    "label": "You arrived and look to the thermometer in the Airport and it is 2°C"
+  },
+  {
+    "id": 25,
+    "Name": "Denmark",
+    "label": "You arrived and look to the thermometer in the Airport and it is 5°C"
+  }
+]
